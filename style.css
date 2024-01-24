@@ -91,5 +91,7 @@ video {
         margin-block:4px;
         width:100%;
     }
-
+.converter-container .input-container input{
+background: gray;
+}
 }
